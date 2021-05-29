@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy Unrestricted -File "C:\ExportFileLog\BuildExportFileLog.ps1"
