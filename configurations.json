@@ -1,0 +1,20 @@
+{
+	"brokers": {
+		"5553fa5b": {
+			"jurisdiction": "3ec4",
+			"name": "170356477269",
+			"offset": "0",
+			"schedule": "0"
+		},
+		"028e688b": {
+			"jurisdiction": "52fb",
+			"name": "170356477269",
+			"offset": "1",
+			"schedule": "1"
+		}
+	},
+	"schedules": {
+		"0": [0, 1, 2, 3, 4],
+		"1": [1, 2, 3, 4, 5]
+	}
+}
